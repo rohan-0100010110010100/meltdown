@@ -1,4 +1,4 @@
-#include "libkdump.h"
+#include "libkdump/libkdump.h"
 #include <stdio.h>
 #include <stdlib.h>
 
